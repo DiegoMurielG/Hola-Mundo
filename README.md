@@ -1,6 +1,8 @@
 # Hola-Mundo
-Primer Repositorio 2022
+###Primer Repositorio 2022
 
-Autor: Muriel González Diego
+Autor: **_Muriel González Diego_**
 
-CDMX
+CDMX - Mexicano
+
+![Image by James Wheeler from [Pixabay](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/?download)]()
